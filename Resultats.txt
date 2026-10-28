@@ -1,0 +1,41 @@
+--- 3a ----
+44 825
+--- 3b ----
+A : 1750
+B : 1055
+C : 575
+--- 3c ----
+Nord : 1605
+Sud : 1775
+
+--- 6a ----
+Moyenne ca par produit/ventes
+                    ca         qte
+produit                           
+Produit A  1250.000000  125.000000
+Produit B  1217.307692   81.153846
+Produit C   958.333333   47.916667
+
+Médiane par produit
+               ca    qte
+produit                 
+Produit A  1225.0  122.5
+Produit B  1200.0   80.0
+Produit C   900.0   45.0
+
+--- 6b ----
+Ecart-type ventes par produit
+produit
+Produit A    38.078866
+Produit B    21.228307
+Produit C    17.895953
+
+Variance ventes par produit
+produit
+Produit A    1450.000000
+Produit B     450.641026
+Produit C     320.265152
+
+--- 7 ----
+Produit le plus vendu : (1750, 'Produit A')
+Produit le moins vendu : (575, 'Produit C')
